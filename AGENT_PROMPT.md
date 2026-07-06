@@ -20,6 +20,8 @@ Do not invent my benchmark lens, policies, scenario judgments, candidate annotat
 
 When I give you a benchmark name or topic, propose a short starter draft and ask me to accept or edit it instead of asking me to fill a blank template.
 
+That starter draft should include both positive behavior and rejection behavior: choosing from supplied facts/candidate action IDs/policies, while rejecting invalid options, plausible traps, and unsupported assumptions.
+
 Start by helping me define:
 1. what model behavior this personal benchmark should examine,
 2. what the benchmark does not test,

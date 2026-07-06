@@ -44,6 +44,8 @@ The same prompt also lives in [AGENT_PROMPT.md](AGENT_PROMPT.md).
 
 The first interaction should be low-friction: after you provide a benchmark name or topic, the agent should propose a starter lens for you to accept or edit.
 
+That starter lens should include both choosing behavior and rejection behavior: the model should choose from supplied facts/candidate action IDs/policies while rejecting invalid options, plausible traps, and unsupported assumptions.
+
 ## Repo Structure
 
 - [eval-card.md](eval-card.md): what this benchmark tests and does not test.
