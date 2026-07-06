@@ -2,6 +2,8 @@
 
 Copy this prompt into your preferred agent after creating a repo from this starter.
 
+If your agent reads [AGENTS.md](AGENTS.md), you can start with only your benchmark name and topic. Otherwise, paste the full prompt below.
+
 ```text
 Use this repository as a downstream personal LLM benchmark repo.
 

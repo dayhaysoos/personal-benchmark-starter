@@ -34,6 +34,12 @@ Start by helping me define:
 V1 benchmarks LLM responses only. Agents are helpers, not benchmark targets.
 ```
 
+This starter also includes [AGENTS.md](AGENTS.md) with repo-local agent instructions. If your agent automatically reads that file, you can start with a shorter message:
+
+```text
+My benchmark is called my-benchmark. It should examine LLM behavior on [topic].
+```
+
 The same prompt also lives in [AGENT_PROMPT.md](AGENT_PROMPT.md).
 
 The first interaction should be low-friction: after you provide a benchmark name or topic, the agent should propose a starter lens for you to accept or edit.
