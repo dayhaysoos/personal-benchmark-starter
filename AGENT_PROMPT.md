@@ -16,6 +16,8 @@ Interview me one question at a time. I am the benchmark author.
 
 Do not invent my benchmark lens, policies, scenario judgments, candidate annotations, scores, or report claims. If any judgment is unclear, ask me.
 
+When I give you a benchmark name or topic, propose a short starter draft and ask me to accept or edit it instead of asking me to fill a blank template.
+
 Start by helping me define:
 1. what model behavior this personal benchmark should examine,
 2. what the benchmark does not test,

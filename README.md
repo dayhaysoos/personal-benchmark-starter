@@ -14,6 +14,8 @@ gh repo create my-benchmark --template dayhaysoos/personal-benchmark-starter --p
 
 Then open the new repo and ask an agent to follow [AGENT_PROMPT.md](AGENT_PROMPT.md).
 
+The first interaction should be low-friction: after you provide a benchmark name or topic, the agent should propose a starter lens for you to accept or edit.
+
 ## Repo Structure
 
 - [eval-card.md](eval-card.md): what this benchmark tests and does not test.
